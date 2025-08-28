@@ -6,7 +6,7 @@
 ---
 
 💡 Yêu thích sáng tạo và tìm hiểu những kiến thức mới. <br>
-📍 Mong muốn được cải thiện kĩ năng và trở thành một Frontend Developer.<br>
+📍 Mong muốn được nâng cao kĩ năng và trở thành một Frontend Developer.<br>
 
 ---
 
@@ -18,9 +18,9 @@
 
 ### 🛠 Kỹ năng chuyên ngành
 **Web Development:** HTML, CSS, JavaScript (basic) <br>
-**Programming Languages:** Python, C#, C <br>
+**Programming Languages:** Python, C#, C (basic) <br>
 **Design Tools:** Photoshop, Canva (basic) <br>
-**Other Tools:** Git, GitHub, VS Code <br>
+**Other Tools:** Git, GitHub, VS Code (basic) <br>
 
 ---
 

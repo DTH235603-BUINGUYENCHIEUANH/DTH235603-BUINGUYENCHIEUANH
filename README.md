@@ -11,7 +11,7 @@
 ---
 
 ### 🎓 Học vấn
-🎓 Sinh viên năm 2 ngành Công Nghệ Thông Tin <br>
+🎓 Sinh viên năm 3 ngành Công Nghệ Thông Tin <br>
 📍Trường Đại Học An Giang - Đại Học Quốc Gia TP HCM <br>
 
 ---

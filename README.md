@@ -1,16 +1,16 @@
-<h1 align="center">Xin chào! Mình là Chiêu Anh</h1>
+<h1 align="center">Xin chào! Mình là Chiêu Anh 😊</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/225698610?v=4" width="150" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/225698610?v=4" width="150" style="border-radius: 50;"/>
 </p>
 
 ---
 
-💡 Yêu thích sáng tạo và học hỏi những kỹ năng mới. <br>
+💡 Yêu thích sáng tạo và tìm hiểu những kiến thức mới. <br>
 📍 Mong muốn được cải thiện kĩ năng và trở thành một Frontend Developer.<br>
 
 ---
 
-###🎓 Học vấn
+### 🎓 Học vấn
 🎓 Sinh viên năm 2 ngành Công Nghệ Thông Tin <br>
 📍Trường Đại Học An Giang - Đại Học Quốc Gia TP HCM <br>
 

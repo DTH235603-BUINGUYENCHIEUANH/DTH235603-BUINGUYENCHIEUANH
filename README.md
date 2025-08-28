@@ -27,7 +27,7 @@
 ### ⚡Kỹ năng khác
 👯 Teamwork <br>
 🖥️ MS Office <br>
-🌍 Ngoại ngữ: VSTEP B2 <br>
+🌍 Ngoại ngữ: VSTEP <br>
 
 ---
 

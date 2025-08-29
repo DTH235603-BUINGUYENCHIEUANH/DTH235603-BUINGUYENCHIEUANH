@@ -1,6 +1,6 @@
 <h1 align="center">Xin chào! Mình là Chiêu Anh 😊</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/225698610?v=4" width="170" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/225698610?v=4" width="170";"/>
 </p>
 
 ---
